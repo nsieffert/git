@@ -32,9 +32,7 @@ Exercise Steps/Instructions:
 * On GitHub, verify that the master branch only has the README.md and the data.json file with nothing else.  Verify that the html-branch and the text-branch each have a respective .html and .txt file.
 Submit a pull request for both the html-branch and the text-branch to be merged into master.  Add your TA as a collaborator for both Pull Requests (PR).  
 
-**Bonus Goals:
-* The instructions for the bonus functionality are another branch of this repo.  Find those instructions
-
-3. Submit the exercise in <a href="https://bit.ly/3aKtYAC" target="_blank">TEKsystems Academy</a>
-
-4. Complete the Exercise Evaluation form in <a href="https://bit.ly/2KE32Yw" target="_blank">TEKsystems Academy</a>.
+**Bonus Goal:
+•	Merge The merge-this-branch into the master branch. If you run into a merge conflict, get rid of the bonus goals bullet on the master branch of the README file and replace it with this bullet. Also, keep all the data from both the merge-this-brarnch and the master branch
+3.	Submit the exercise in TEKsystems Academy
+4.	Complete the Exercise Evaluation form in TEKsystems Academy.
