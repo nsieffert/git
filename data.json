@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
       "name": "Meowsy",
@@ -55,3 +56,90 @@
 			"value": "#000"
 	    }
 	]
+=======
+[    
+		{
+	      "name": "Meowsy",
+	      "species" : "cat",
+	      "foods": {
+	        "likes": ["tuna", "catnip"],
+	        "dislikes": ["ham", "zucchini"]
+	      }
+	    },
+	    {
+	      "name": "Barky",
+	      "species" : "dog",
+	      "foods": {
+	        "likes": ["bones", "carrots"],
+	        "dislikes": ["tuna"]
+	      }
+	    },
+	    {
+	      "name": "Purrpaws",
+	      "species" : "cat",
+	      "foods": {
+	        "likes": ["mice"],
+	        "dislikes": ["cookies"]
+	      }
+	    }
+	  ]
+	[
+		[
+		    {
+		      "name": "Meowsy",
+		      "species" : "cat",
+		      "foods": {
+		        "likes": ["tuna", "catnip"],
+		        "dislikes": ["ham", "zucchini"]
+		      }
+		    },
+		    {
+		      "name": "Barky",
+		      "species" : "dog",
+		      "foods": {
+		        "likes": ["bones", "carrots"],
+		        "dislikes": ["tuna"]
+		      }
+		    },
+		    {
+		      "name": "Purrpaws",
+		      "species" : "cat",
+		      "foods": {
+		        "likes": ["mice"],
+		        "dislikes": ["cookies"]
+		      }
+		    }
+		  ]
+	
+
+	[
+			{
+				"color": "red",
+				"value": "#f00"
+			},
+			{
+				"color": "green",
+				"value": "#0f0"
+			},
+			{
+				"color": "blue",
+				"value": "#00f"
+			},
+			{
+				"color": "cyan",
+				"value": "#0ff"
+			},
+			{
+				"color": "magenta",
+				"value": "#f0f"
+			},
+			{
+				"color": "yellow",
+				"value": "#ff0"
+			},
+			{
+				"color": "black",
+				"value": "#000"
+		    }
+		]
+>>>>>>> a80d3ab0c874b0cf1f109a505e95d203b4267cdb
